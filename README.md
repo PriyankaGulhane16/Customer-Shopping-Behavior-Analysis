@@ -32,6 +32,7 @@ Jupyter Notebook
 PostgreSQL Server
 
 🔎 Project Steps
+
 1️⃣ Data Loading (Python)
 Imported dataset using pandas
 Inspected structure using .head(), .info(), .describe()
