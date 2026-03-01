@@ -93,7 +93,7 @@ Filters and slicers
 
 
 
-📈 Results & InsightsThrough this analysis:-
+📈 Results & Insights:-
 
 Identified key revenue drivers
 Discovered high-performing categories
