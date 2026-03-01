@@ -13,8 +13,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 
-The project includes:
-
+📝The project includes:
 Loading and analyzing data using Python
 Performing Exploratory Data Analysis (EDA)
 Cleaning and transforming data
