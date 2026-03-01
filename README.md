@@ -2,7 +2,7 @@
 Data Analytics Project showcasing customer behavior analysis using Python, SQL, Power BI Dashboard
 
 
-📝 Overview
+📝 Overview:-
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
@@ -13,7 +13,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 
-📝The project includes:
+📝The project includes:-
 Loading and analyzing data using Python
 Performing Exploratory Data Analysis (EDA)
 Cleaning and transforming data
@@ -21,8 +21,7 @@ Writing analytical queries in SQL (PostgreSQL)
 Building an interactive dashboard in Power BI
 The goal of this project is to showcase practical data analysis skills used in real-world business environments.
 
-📂 Dataset
-
+📂 Dataset:-
 The dataset used in this project contains structured data with multiple features relevant to business analysis (e.g., sales, customers, products, dates, categories).
 Key characteristics:
 Structured tabular data (CSV format)
@@ -30,7 +29,7 @@ Multiple numerical and categorical columns
 Contains missing values and inconsistencies
 Suitable for aggregation, trend analysis, and KPI tracking
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies:-
 
 Python
 pandas
@@ -41,7 +40,7 @@ Power BI
 Jupyter Notebook
 PostgreSQL Server
 
-🔎 Project Steps
+🔎 Project Steps:-
 
 1️⃣ Data Loading (Python)
 Imported dataset using pandas
@@ -82,7 +81,7 @@ KPI cards
 Bar charts (category comparison)
 Filters and slicers
 
-Deliverables
+Deliverables:-
 
 1. Data Preparation & Modeling (Python): Clean and transform the raw dataset for analysis.
 2. Data Analysis (SQL): Organize the data into a structured format, simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
@@ -92,8 +91,7 @@ Deliverables
 
 
 
-📈 Results & Insights
-Through this analysis:
+📈 Results & InsightsThrough this analysis:-
 Identified key revenue drivers
 Discovered high-performing categories
 Detected seasonal trends
@@ -104,3 +102,10 @@ Perform structured analysis
 Write efficient SQL queries
 Translate data into business insights
 Build professional dashboards
+
+
+
+
+
+
+
