@@ -34,13 +34,22 @@ Suitable for aggregation, trend analysis, and KPI tracking
 🛠 Tools & Technologies:-
 
 Python
+
 pandas
+
 SQL
+
 PostgreSQL
+
 Data Visualization
+
 Power BI
+
 Jupyter Notebook
+
 PostgreSQL Server
+
+
 
 🔎 Project Steps:-
 
