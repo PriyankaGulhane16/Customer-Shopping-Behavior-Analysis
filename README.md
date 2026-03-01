@@ -5,12 +5,16 @@ Data Analytics Project showcasing customer behavior analysis using Python, SQL, 
 📝 Overview
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+
 ✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 
 The project includes:
+
 Loading and analyzing data using Python
 Performing Exploratory Data Analysis (EDA)
 Cleaning and transforming data
@@ -19,6 +23,7 @@ Building an interactive dashboard in Power BI
 The goal of this project is to showcase practical data analysis skills used in real-world business environments.
 
 📂 Dataset
+
 The dataset used in this project contains structured data with multiple features relevant to business analysis (e.g., sales, customers, products, dates, categories).
 Key characteristics:
 Structured tabular data (CSV format)
@@ -27,6 +32,7 @@ Contains missing values and inconsistencies
 Suitable for aggregation, trend analysis, and KPI tracking
 
 🛠 Tools & Technologies
+
 Python
 pandas
 SQL
@@ -78,6 +84,7 @@ Bar charts (category comparison)
 Filters and slicers
 
 Deliverables
+
 1. Data Preparation & Modeling (Python): Clean and transform the raw dataset for analysis.
 2. Data Analysis (SQL): Organize the data into a structured format, simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 3. Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
