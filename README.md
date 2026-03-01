@@ -14,6 +14,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 📝The project includes:-
+
 Loading and analyzing data using Python
 Performing Exploratory Data Analysis (EDA)
 Cleaning and transforming data
@@ -22,6 +23,7 @@ Building an interactive dashboard in Power BI
 The goal of this project is to showcase practical data analysis skills used in real-world business environments.
 
 📂 Dataset:-
+
 The dataset used in this project contains structured data with multiple features relevant to business analysis (e.g., sales, customers, products, dates, categories).
 Key characteristics:
 Structured tabular data (CSV format)
@@ -72,7 +74,6 @@ Joins (if multiple tables)
 Date-based analysis
 Top-N analysis
 
-
 5️⃣ Power BI Dashboard
 Connected Power BI to PostgreSQL
 Created data model and relationships
@@ -81,17 +82,10 @@ KPI cards
 Bar charts (category comparison)
 Filters and slicers
 
-Deliverables:-
-
-1. Data Preparation & Modeling (Python): Clean and transform the raw dataset for analysis.
-2. Data Analysis (SQL): Organize the data into a structured format, simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
-3. Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
-4. Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
-5. GitHub Repository: Include all Python scripts, SQL queries, and dashboard files in a well-structured repository.
-
 
 
 📈 Results & InsightsThrough this analysis:-
+
 Identified key revenue drivers
 Discovered high-performing categories
 Detected seasonal trends
