@@ -107,6 +107,9 @@ Translate data into business insights
 Build professional dashboards
 
 
+<img width="2635" height="1518" alt="image" src="https://github.com/user-attachments/assets/d2d6b0c4-d383-42e6-b1a7-f6827dec7852" />
+
+
 
 
 
