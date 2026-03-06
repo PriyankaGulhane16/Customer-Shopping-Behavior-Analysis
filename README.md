@@ -106,6 +106,23 @@ Male customers generate $157,890 in revenue, significantly higher than the $75,1
 
 
 
+💡 Recommendations
+
+Targeting and Personalization:
+Focus marketing efforts on the 36-50 age group and the male demographic to maximize engagement and sales.
+
+Subscription Services:
+Develop strategies to encourage more female customers to opt for subscription services, possibly through tailored incentives and promotions.
+
+Promotional Strategies:
+Emphasize the benefits of discounts and promo codes to increase their usage across all demographics, particularly targeting the female segment.
+
+Product and Inventory Management:
+Prioritize stocking and promoting high-selling items in Clothing and Accessories, especially during Spring and Fall.
+
+Revenue Optimization:
+Analyze ways to boost spending among customers who frequently use discounts and promo codes while maintaining their purchase frequency.
+
 
 <img width="2635" height="1518" alt="image" src="https://github.com/user-attachments/assets/d2d6b0c4-d383-42e6-b1a7-f6827dec7852" />
 
