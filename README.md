@@ -92,11 +92,9 @@ Filters and slicers
 
 📈 Results & Insights:-
 
-Identified key revenue drivers
+Identified key revenue drivers and discovered high-performing categories:
 
-Discovered high-performing categories
-
-The majority of customers fall within the 36-50 age group. This age group is also the target for frequent purchases.
+The majority of customers fall within the 32-44 age group in sales. This age group is also the target for frequent purchases.
 
 The male population accounts for 68% of customers, indicating a significant gender imbalance in the customer base.
 
