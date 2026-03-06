@@ -2,7 +2,12 @@
 Data Analytics Project showcasing customer behavior analysis using Python, SQL, Power BI Dashboard
 
 
-📝 Overview:-
+📝 Problem Statement:-
+
+A leading retail company wants to better understand its customers' shopping behavior in order to improve sales, customer satisfaction, and long-term loyalty. The management team has noticed changes in purchasing patterns across demographics, product categories, and sales channels (online vs. offline). They are particularly interested in uncovering which factors, such as discounts, reviews, seasons, or payment preferences, drive consumer decisions and repeat purchases.
+
+
+✅ The project includes:-
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
@@ -13,19 +18,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 
-📝 Problem Statement:-
-
-A leading retail company wants to better understand its customers' shopping behavior in order to improve sales, customer satisfaction, and long-term loyalty. The management team has noticed changes in purchasing patterns across demographics, product categories, and sales channels (online vs. offline). They are particularly interested in uncovering which factors, such as discounts, reviews, seasons, or payment preferences, drive consumer decisions and repeat purchases.
-
-
-📝The project includes:-
-
-Loading and analyzing data using Python
-Performing Exploratory Data Analysis (EDA)
-Cleaning and transforming data
-Writing analytical queries in SQL (PostgreSQL)
-Building an interactive dashboard in Power BI
-The goal of this project is to showcase practical data analysis skills used in real-world business environments.
 
 📂 Dataset:-
 
